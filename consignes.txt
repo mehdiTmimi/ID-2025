@@ -1,0 +1,10 @@
+************** HTML ***************
+Langage de structuration
+utilise les balises (tag, element)
+structure de donnees utilisee : arbre DOM
+=> contexte d'utilisation: Data (primary) , structure logique,
+metadata, liaison avec des css et js externes
+
+n est pas sensible a la casse
+tous les retours a la ligne sont ignores
+tous les espaces consecutives ils sont remplaces par un seul espace
